@@ -25,27 +25,6 @@ Colour Detection using OpenCV is a simple Computer Vision project developed with
 
 ---
 
-## Project Structure
-
-```bash
-Colour_detection_cv2/
-│
-├── color_detection.py
-├── colors.csv
-├── images/
-├── README.md
-└── requirements.txt
-```
-
----
-
-## Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Colour_detection_cv2.git
-```
 
 ### Navigate to the Project Folder
 
