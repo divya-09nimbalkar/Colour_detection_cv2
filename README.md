@@ -74,12 +74,6 @@ python color_detection.py
 
 ![Image](https://images.openai.com/static-rsc-4/YfIPzf7l_CmjTV9x-bPZDml8GlnlyU9zADPzeuaVk95oxyywPTto-qU9Ob2KSWT6TXLCiLQJ9RRX-VWzcZelrcccUaU5GhwiHK8zjOKDENQxxeIpz1J6r8YEopcX9lvx7RkpREkV6jaPPjKM0yMg9lEapp78Clir3dB0qGygvSjHCCpIjpCrzHmCmEUUc5NG?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/wAGaZkOrwRu5iEzvMyK8I3QTfD-_jROzVvurGMq6nNGA_vVWKptTWwV7BhK-pAHL4OsiLQAAEsZo3tesODjI9bsZeRO-3EYJR_tRyNIig16Mj5aaxHLl2EdVEDxgdtqMCyNhg1HvoJ30MCmYqq_HCgTLjXekB1-bII5BmsC__k3kHz7cOO12dEuJ_7UPbohX?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/Enybslc25zvePKAbxhYTCqm5dV-umctOtchuCHbmYz5r3Gw_rYEvqCAzIFEKLyexGnxZhurILYRfCBmnRNy_uez4lCQ-AhtdKZQmgwMzZcO8AWJVGUPjOG9B7rGnKImady01DnBpcBpRAfbuZO1N1161h_sJmcEJpK2qcUAXiQDB1Xi1mogsmCOzCcIuMUCw?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/u7cV50-9q93-qIkenmGd0FXGCB2MLWbTrCOp_4QbYXfRK-5CrPoM7iEQ1x4hz4jVrECRf-UcuCDiS6m3u2ovlJ4iZLBuFzHbFw0dTCfNARjeiYcsHlUX-BfT3d5VrkDREfflgGgf8qhhDbRPAhzWE9jZtc3FjORev9fZDoi_vNW-Sks4i7AzFAqX6U2p17uI?purpose=fullsize)
-
 ---
 
 ## Applications
