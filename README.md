@@ -94,7 +94,3 @@ python color_detection.py
 * Mobile camera support
 
 ---
-
-## Author
-
-Developed using Python and OpenCV for Computer Vision learning and real-time image processing applications.
