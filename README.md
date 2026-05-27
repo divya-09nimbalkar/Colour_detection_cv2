@@ -70,7 +70,7 @@ python color_detection.py
 
 ## Sample Output
 
-### Real-Time Color Detection
+### Real-Time Color Detection.
 
 ![Image](https://images.openai.com/static-rsc-4/fFi3eopyZgLl7tn5cmyYTJBN2IX0g8Hh383_hLCSa8NFSQCoZ2WWznWv3sSNIvfTZJxKSHh_p1jY-MgY2HATiWIsnsHuP5X9zLTKNN0uCFpt8grBGLD5E408awJ9wteukvNupKbcWbkzObOIbTarSbJZg31ZKuluHloDfnKuRmWpBEeRvdOFLobmZ1shrSwk?purpose=fullsize)
 
